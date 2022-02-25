@@ -1,6 +1,4 @@
-<h1 align="center">Olá 👋, sou / Hi 👋, I'm Rodrigo Marchi Silva</h1>
-
-<h3 align="center">Um Desenvolvedor de Web Full Stack em JavaScript / A JavaScript Full Stack Web Developer</h3>
+![Banner](my-project.png)
 
 ---
 
