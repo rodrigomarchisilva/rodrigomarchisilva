@@ -1,4 +1,4 @@
-![Banner](my-project.png)
+![Banner](github-banner.png)
 
 ---
 
