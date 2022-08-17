@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 ![Banner](github-banner.png)
 
-<style type="text/css" rel="stylesheet"></style>
+<!-- <style type="text/css" rel="stylesheet"></style> -->
 
 ---
 
