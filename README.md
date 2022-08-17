@@ -90,6 +90,7 @@
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./icons/react.svg" alt="React" title="React"></img></a>
       <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="./icons/redux.svg" alt="Redux" title="Redux"></img></a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="./icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap"></img></a>
+      <a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="./icons/bulma.svg" alt="BULMA" title="BULMA"></img></a>
     </td>
   </tr>
 
@@ -98,8 +99,8 @@
       <b>Banco de dados / Database</b>
     </td>
     <td>
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./icons/mongodb.svg" alt="MongoDB" title="MongoDB"></img></a>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./icons/mysql.svg" alt="MySQL" title="MySQL"></img></a>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./icons/mongodb.svg" alt="MongoDB" title="MongoDB"></img></a>
     </td>
   </tr>
 
@@ -113,6 +114,8 @@
       <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="./icons/sequelize.svg" alt="Sequelize" title="Sequelize"></img></a>
       <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="./icons/mongoose.svg" alt="Mongoose" title="Mongoose"></img></a>
       <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer"><img src="./icons/thunderclient.svg" alt="Thunder Client" title="Thunder Client"></img></a>
+      <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img src="./icons/insomnia.svg" alt="Insomnia" title="Insomnia"></img></a>
+      <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="./icons/postman.svg" alt="Postman" title="Postman"></img></a>
     </td>
   </tr>
 
@@ -143,7 +146,7 @@
       <a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="./icons/mocha.svg" alt="Mocha" title="Mocha"></img></a>
       <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"><img src="./icons/chai.svg" alt="Chai" title="Chai"></img></a>
       <a href="https://sinonjs.org/" target="_blank" rel="noreferrer"><img src="./icons/sinon.svg" alt="Sinon" title="Sinon"></img></a>
-      <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="./icons/testing-library.svg" alt="React Testing Library" title="React Testing Library"></img></a>
+      <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="./icons/rtl.svg" alt="React Testing Library" title="React Testing Library"></img></a>
       <a href="https://docs.pytest.org/en/7.1.x/" target="_blank" rel="noreferrer"><img src="./icons/pytest.svg" alt="Pytest" title="Pytest"></img></a>
     </td>
   </tr>
