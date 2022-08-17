@@ -41,137 +41,134 @@
   <a href="https://linkedin.com/in/rodrigo-marchi-silva" target="blank">
     <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      align="center" alt="rodrigo-marchi-silva" height="30" width="40"
+      align="center" alt="LinkedIn" height="30" width="40" title="LinkedIn"
     />
   </a>
 </p>
 
 ---
 
-<h3 align="center">Ferramentas / Tools:</h3>
-<section>
-  <b>Ambiente de trabalho / Work Environment:</b>
-  <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"><img src="./icons/ubuntu.svg" alt="Ubuntu" title="Ubuntu"></img></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="./icons/gnubash.svg" alt="Bash" title="Bash"></img></a>
-  <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="./icons/npm.svg" alt="NPM" title="NPM"></img></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./icons/git.svg" alt="Git" title="Git"></img></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="./icons/github.svg" alt="GitHub" title="GitHub"></img></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="./icons/visualstudiocode.svg" alt="Visual Studio Code" title="Visual Studio Code"></img></a>
-</section>
+<table align="center">
+  <tr>
+    <th colspan="2">
+      <h3 align="center">Ferramentas / Tools</h3>
+    </th>
+  </tr>
 
-<section>
-  <b>Base:</b>
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-    <img src="./icons/javascript.svg" alt="javascript" title="javascript"></img>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="./icons/typescript.svg" alt="typescript" title="typescript"></img>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="./icons/python.svg" alt="python" title="python"></img>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="./icons/html.svg" alt="html" title="html"></img>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="./icons/css.svg" alt="css" title="css"></img>
-  </a>
-</section>
+  <tr>
+    <td>
+      <b>Ambiente de trabalho / Work Environment</b>
+    </td>
+    <td>
+      <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"><img src="./icons/ubuntu.svg" alt="Ubuntu" title="Ubuntu"></img></a>
+      <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="./icons/gnubash.svg" alt="Bash" title="Bash"></img></a>
+      <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="./icons/npm.svg" alt="NPM" title="NPM"></img></a>
+      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./icons/git.svg" alt="Git" title="Git"></img></a>
+      <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="./icons/github.svg" alt="GitHub" title="GitHub"></img></a>
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="./icons/visualstudiocode.svg" alt="Visual Studio Code" title="Visual Studio Code"></img></a>
+    </td>
+  <tr>
 
-<section>
-  <b>Frontend:</b>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="./icons/react.svg" alt="react" title="react"></img>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="./icons/redux.svg" alt="redux" title="redux"></img>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="./icons/bootstrap.svg" alt="bootstrap" title="bootstrap"></img>
-  </a>
-</section>
+  <tr>
+    <td>
+      <b>Base</b>
+    </td>
+    <td>
+      <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="./icons/javascript.svg" alt="JavaScript" title="JavaScript"></img></a>
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="./icons/typescript.svg" alt="TypeScript" title="TypeScript"></img></a>
+      <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./icons/python.svg" alt="Python" title="Python"></img></a>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="./icons/html5.svg" alt="HTML" title="HTML"></img></a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="./icons/css3.svg" alt="CSS" title="CSS"></img></a>
+    </td>
+  </tr>
 
-<section>
-  <b>Backend:</b>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="./icons/node.svg" alt="node" title="node"></img>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="./icons/express.svg" alt="express" title="express"></img>
-  </a>
-  <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer">
-    <img src="./icons/thunderclient.svg" alt="thunderclient" title="thunderclient"></img>
-  </a>
-</section>
+  <tr>
+    <td>
+      <b>Frontend</b>
+    </td>
+    <td>
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./icons/react.svg" alt="React" title="React"></img></a>
+      <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="./icons/redux.svg" alt="Redux" title="Redux"></img></a>
+      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="./icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap"></img></a>
+    </td>
+  </tr>
 
-<section>
-  <b>Banco de dados / Database:</b>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="./icons/mongodb.svg" alt="mongodb" title="mongodb"></img>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="./icons/mysql.svg" alt="mysql" title="mysql"></img>
-  </a>
-</section>
+  <tr>
+    <td>
+      <b>Banco de dados / Database</b>
+    </td>
+    <td>
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="./icons/mongodb.svg" alt="MongoDB" title="MongoDB"></img></a>
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./icons/mysql.svg" alt="MySQL" title="MySQL"></img></a>
+    </td>
+  </tr>
 
-<section>
-  <b>Containers:</b>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="./icons/docker.svg" alt="docker" title="docker"></img>
-  </a>
-</section>
+  <tr>
+    <td>
+      <b>Backend</b>
+    </td>
+    <td>
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="./icons/node.svg" alt="Node" title="Node"></img></a>
+      <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="./icons/express.svg" alt="Express" title="Express"></img></a>
+      <a href="https://sequelize.org/" target="_blank" rel="noreferrer"><img src="./icons/sequelize.svg" alt="Sequelize" title="Sequelize"></img></a>
+      <a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"><img src="./icons/mongoose.svg" alt="Mongoose" title="Mongoose"></img></a>
+      <a href="https://www.thunderclient.com/" target="_blank" rel="noreferrer"><img src="./icons/thunderclient.svg" alt="Thunder Client" title="Thunder Client"></img></a>
+    </td>
+  </tr>
 
-<section>
-  <b>Deployment:</b>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="./icons/heroku.svg" alt="heroku" title="heroku"></img>
-  </a>
-</section>
+  <tr>
+    <td>
+      <b>Containers</b>
+    </td>
+    <td>
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./icons/docker.svg" alt="Docker" title="Docker"></img></a>
+    </td>
+  </tr>
 
-<section>
-  <b>Testes / Testing:</b>
-  <a href="https://www.jestjs.io/" target="_blank" rel="noreferrer">
-    <img src="./icons/jest.svg" alt="jest" title="jest"></img>
-  </a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img src="./icons/mocha.svg" alt="mocha" title="mocha"></img>
-  </a>
-  <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer">
-    <img src="./icons/chai.svg" alt="chai" title="chai"></img>
-  </a>
-  <a href="https://sinonjs.org/" target="_blank" rel="noreferrer">
-    <img src="./icons/sinon.svg" alt="sinon" title="sinon"></img>
-  </a>
-  <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer">
-    <img src="./icons/testing-library.svg" alt="testing-library" title="testing-library"></img>
-  </a>
-  <a href="https://docs.pytest.org/en/7.1.x/" target="_blank" rel="noreferrer">
-    <img src="./icons/pytest.svg" alt="pytest" title="pytest"></img>
-  </a>
-</section>
+  <tr>
+    <td>
+      <b>Deployment</b>
+    </td>
+    <td>
+      <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="./icons/heroku.svg" alt="Heroku" title="Heroku"></img></a>
+    </td>
+  </tr>
 
-<section>
-  <b>Comunicação / Communication:</b>
-  <a href="https://www.slack.com/" target="_blank" rel="noreferrer">
-    <img src="./icons/slack.svg" alt="slack" title="slack"></img>
-  </a>
-  <a href="https://zoom.us/" target="_blank" rel="noreferrer">
-    <img src="./icons/zoom.svg" alt="zoom" title="zoom"></img>
-  </a>
-</section>
+  <tr>
+    <td>
+      <b>Testes / Testing</b>
+    </td>
+    <td>
+      <a href="https://www.jestjs.io/" target="_blank" rel="noreferrer"><img src="./icons/jest.svg" alt="Jest" title="Jest"></img></a>
+      <a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="./icons/mocha.svg" alt="Mocha" title="Mocha"></img></a>
+      <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"><img src="./icons/chai.svg" alt="Chai" title="Chai"></img></a>
+      <a href="https://sinonjs.org/" target="_blank" rel="noreferrer"><img src="./icons/sinon.svg" alt="Sinon" title="Sinon"></img></a>
+      <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="./icons/testing-library.svg" alt="React Testing Library" title="React Testing Library"></img></a>
+      <a href="https://docs.pytest.org/en/7.1.x/" target="_blank" rel="noreferrer"><img src="./icons/pytest.svg" alt="Pytest" title="Pytest"></img></a>
+    </td>
+  </tr>
 
-<section>
-  <b>Metodologias ágeis / Agile:</b>
-  <a href="https://www.scrum.org/" target="_blank" rel="noreferrer">
-    <img src="./icons/scrum.svg" alt="scrum" title="scrum"></img>
-  </a>
-  <a href="https://blog.trello.com/br/metodo-kanban" target="_blank" rel="noreferrer">
-    <img src="./icons/kanban.svg" alt="kanban" title="kanban"></img>
-  </a>
-  <a href="https://trello.com/" target="_blank" rel="noreferrer">
-    <img src="./icons/trello.svg" alt="trello" title="trello"></img>
-  </a>
-</section>
+  <tr>
+    <td>
+      <b>Comunicação / Communication</b>
+    </td>
+    <td>
+      <a href="https://www.slack.com/" target="_blank" rel="noreferrer"><img src="./icons/slack.svg" alt="Slack" title="Slack"></img></a>
+      <a href="https://zoom.us/" target="_blank" rel="noreferrer"><img src="./icons/zoom.svg" alt="ZOOM" title="ZOOM"></img></a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <b>Metodologias ágeis / Agile</b>
+    </td>
+    <td>
+      <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="./icons/scrum.svg" alt="SCRUM" title="SCRUM"></img></a>
+      <a href="https://blog.trello.com/br/metodo-kanban" target="_blank" rel="noreferrer"><img src="./icons/kanban.svg" alt="Kanban" title="Kanban"></img></a>
+      <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="./icons/trello.svg" alt="Trello" title="Trello"></img></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
