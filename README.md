@@ -28,8 +28,25 @@
 
 ---
 
+- 👨🏻 **Pronomes / Pronouns:**
+  - Ele/dele | He/His
+
 - 🌱 **O que ando fazendo / What I've got my hands on:**
   - Refatoramento e upload de projetos da Trybe / Refactoring and uploading projects from Trybe
+
+- 📖 **O que pretendo estudar / What I wanna learn next:**
+  - [styled components](https://styled-components.com/)
+  - [Sass](https://sass-lang.com/)
+  - [Tailwind](https://tailwindcss.com/)
+  - [Next.js](https://nextjs.org/)
+  - [Gatsby](https://www.gatsbyjs.com/)
+  - [React Native](https://reactnative.dev/)
+  - [Vue](https://vuejs.org/)
+  - [Angular](https://angular.io/)
+  - [jQuery](https://jquery.com/)
+  - [Cypress](https://www.cypress.io/)
+  - [Jasmine](https://jasmine.github.io/)
+  - [Enzyme](https://enzymejs.github.io/enzyme/)
 
 - 📫 **Método de contato / How to reach me:**
   - **rodrigomarchisilva@gmail.com**
@@ -90,7 +107,7 @@
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="./icons/react.svg" alt="React" title="React"></img></a>
       <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="./icons/redux.svg" alt="Redux" title="Redux"></img></a>
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="./icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap"></img></a>
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="./icons/materialui.svg" alt="Material UI" title="Material UI"></img></a>
+      <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="./icons/materialui.svg" alt="Material UI" title="Material UI"></img></a>
       <!-- <a href="https://bulma.io/" target="_blank" rel="noreferrer"><img src="./icons/bulma.svg" alt="BULMA" title="BULMA"></img></a> -->
     </td>
   </tr>
