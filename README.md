@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 MD041 -->
+<!-- markdownlint-disable MD033 MD041 MD024 -->
 ![Banner](github-banner.png)
 
 <!-- <style type="text/css" rel="stylesheet"></style> -->
@@ -155,7 +155,9 @@ Olá! Sou um cara de 30 anos, brasileiro, que ama programação, aprender coisas
       <b>Work Environment / Ambiente de trabalho</b>
     </td>
     <td>
+      <a href="https://www.microsoft.com/pt-br/windows" target="_blank" rel="noreferrer"><img src="./icons/windows.svg" alt="Windows" title="Windows"></img></a>
       <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"><img src="./icons/ubuntu.svg" alt="Ubuntu" title="Ubuntu"></img></a>
+      <a href="https://learn.microsoft.com/pt-br/powershell/" target="_blank" rel="noreferrer"><img src="./icons/powershell.svg" alt="PowerShell" title="PowerShell"></img></a>
       <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="./icons/gnubash.svg" alt="Bash" title="Bash"></img></a>
       <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="./icons/npm.svg" alt="NPM" title="NPM"></img></a>
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="./icons/git.svg" alt="Git" title="Git"></img></a>
@@ -169,11 +171,11 @@ Olá! Sou um cara de 30 anos, brasileiro, que ama programação, aprender coisas
       <b>Base</b>
     </td>
     <td>
+      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="./icons/html5.svg" alt="HTML" title="HTML"></img></a>
+      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="./icons/css3.svg" alt="CSS" title="CSS"></img></a>
       <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="./icons/javascript.svg" alt="JavaScript" title="JavaScript"></img></a>
       <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="./icons/typescript.svg" alt="TypeScript" title="TypeScript"></img></a>
       <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="./icons/python.svg" alt="Python" title="Python"></img></a>
-      <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="./icons/html5.svg" alt="HTML" title="HTML"></img></a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="./icons/css3.svg" alt="CSS" title="CSS"></img></a>
     </td>
   </tr>
 
@@ -217,18 +219,10 @@ Olá! Sou um cara de 30 anos, brasileiro, que ama programação, aprender coisas
 
   <tr>
     <td>
-      <b>Containers</b>
+      <b>DevOps</b>
     </td>
     <td>
       <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="./icons/docker.svg" alt="Docker" title="Docker"></img></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <b>Deployment</b>
-    </td>
-    <td>
       <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="./icons/heroku.svg" alt="Heroku" title="Heroku"></img></a>
     </td>
   </tr>
@@ -239,35 +233,131 @@ Olá! Sou um cara de 30 anos, brasileiro, que ama programação, aprender coisas
     </td>
     <td>
       <a href="https://www.jestjs.io/" target="_blank" rel="noreferrer"><img src="./icons/jest.svg" alt="Jest" title="Jest"></img></a>
+      <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="./icons/rtl.svg" alt="React Testing Library" title="React Testing Library"></img></a>
       <a href="https://mochajs.org" target="_blank" rel="noreferrer"><img src="./icons/mocha.svg" alt="Mocha" title="Mocha"></img></a>
       <a href="https://www.chaijs.com/" target="_blank" rel="noreferrer"><img src="./icons/chai.svg" alt="Chai" title="Chai"></img></a>
       <a href="https://sinonjs.org/" target="_blank" rel="noreferrer"><img src="./icons/sinon.svg" alt="Sinon" title="Sinon"></img></a>
-      <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank" rel="noreferrer"><img src="./icons/rtl.svg" alt="React Testing Library" title="React Testing Library"></img></a>
       <a href="https://docs.pytest.org/en/7.1.x/" target="_blank" rel="noreferrer"><img src="./icons/pytest.svg" alt="Pytest" title="Pytest"></img></a>
     </td>
   </tr>
 
   <tr>
     <td>
-      <b>Communication / Comunicação</b>
+      <b>Teamwork / Trabalho em equipe</b>
     </td>
     <td>
       <a href="https://www.slack.com/" target="_blank" rel="noreferrer"><img src="./icons/slack.svg" alt="Slack" title="Slack"></img></a>
       <a href="https://zoom.us/" target="_blank" rel="noreferrer"><img src="./icons/zoom.svg" alt="ZOOM" title="ZOOM"></img></a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <b>Agile / Metodologias ágeis</b>
-    </td>
-    <td>
       <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="./icons/scrum.svg" alt="SCRUM" title="SCRUM"></img></a>
       <a href="https://blog.trello.com/br/metodo-kanban" target="_blank" rel="noreferrer"><img src="./icons/kanban.svg" alt="Kanban" title="Kanban"></img></a>
       <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="./icons/trello.svg" alt="Trello" title="Trello"></img></a>
     </td>
   </tr>
 </table>
+
+<h3>Written version / Versão escrita</h3>
+
+<details>
+  <summary>English</summary>
+
+#### 💻 Work Environment / Ambiente de trabalho
+
+- **OS:** Windows & Ubuntu
+- **Terminal:** PowerShell & Bash
+- **Package Manager:** NPM
+- **Version Control:** Git & GitHub
+- **Editor:** VSCode
+
+#### 🌐 Base
+
+- **Web:** HTML5 & CSS3
+- **Languages:** JavaScript, TypeScript & Python
+
+#### 👨‍🎨 Frontend
+
+- **Whole application:** React and all of its built-in tools and main libraries, such as Axios
+- **State management:** Redux/Redux Toolkit & Context API
+- **UI:** Material UI & Bootstrap
+
+#### 💾 Database
+
+- **SQL:** MySQL
+- **NoSQL:** MongoDB
+
+#### 🔢 Backend
+
+- **Whole application:** Node.js and all of its built-in tools and main libraries, such as Express
+- **ORM:** Sequelize & Mongoose
+- **API Client:** Thunder Client, Insomnia & Postman
+
+#### 🐳 DevOps
+
+- **Containerization:** Docker
+- **Deployment:** Heroku
+
+#### 🧪 Testing
+
+- **React:** Jest & React Testing Library
+- **Node.js:** Mocha, Chai & Sinon
+- **Python:** Pytest
+
+#### 👥 Teamwork
+
+- **Communication:** Slack & Zoom
+- **Agile:** Scrum, Kanban & Trello
+
+</details>
+
+<details>
+  <summary>pt-BR</summary>
+
+#### 💻 Ambiente de Trabalho
+
+- **SO**: Windows & Ubuntu
+- **Terminal**: PowerShell & Bash
+- **Gerenciador de Pacotes**: NPM
+- **Versionamento**: Git & GitHub
+- **Editor**: VSCode
+
+#### 🌐 Base
+
+- **Web**: HTML5 & CSS3
+- **Linguagens**: JavaScript, TypeScript & Python
+
+#### 👨‍🎨 Frontend
+
+- **Aplicação inteira**: React e todas as suas ferramentas e bibliotecas principais, como Axios
+- **Gerenciamento de estado**: Redux/Redux Toolkit & Context API
+- **UI**: Material UI & Bootstrap
+
+#### 💾 Banco de Dados
+
+- **SQL**: MySQL
+- **NoSQL**: MongoDB
+
+#### 🔢 Backend
+
+- **Aplicação inteira**: Node.js e todas as suas ferramentas e bibliotecas principais, como Express
+- **ORM**: Sequelize & Mongoose
+- **Cliente de API**: Thunder Client, Insomnia & Postman
+
+#### 🐳 DevOps
+
+- **Containers**: Docker
+- **Plataforma de Deploy**: Heroku
+
+#### 🧪 Testes
+
+- **React**: Jest & React Testing Library
+- **Node.js**: Mocha, Chai & Sinon
+- **Python**: Pytest
+
+#### 👥 Trabalho em equipe
+
+- **Comunicação**: Slack & Zoom
+- **Metodologias ágeis**: Scrum, Kanban & Trello
+
+</details>
 
 ---
 
