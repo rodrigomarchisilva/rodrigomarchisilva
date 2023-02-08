@@ -16,7 +16,7 @@
 
 ---
 
-<h3 align="center">Visão geral / Overview:</h3>
+<h3 align="center">Overview / Visão geral:</h3>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -28,32 +28,58 @@
 
 ---
 
-- 👨🏻 **Pronomes / Pronouns:**
-  - Ele/dele | He/His
+<h3 align="center">About me / Sobre mim:</h3>
 
-- 🌱 **O que ando fazendo / What I've got my hands on:**
-  - Refatoramento e upload de projetos da Trybe / Refactoring and uploading projects from Trybe
+Hello! I'm a 30-year-old Brazilian guy who loves programming, learning new things and being creative. I'm currently a full-stack web developer, specialized in JavaScript, but I don't limit myself to that, having interest in other languages and technologies, without fear of learning them! 💪
 
-- 📖 **O que pretendo estudar / What I wanna learn next:**
-  - [styled components](https://styled-components.com/)
+- 💼 **My professional background:**
+  - 🛠️ Metallurgy
+  - 🚚 Logistics
+  - ✈️ Flight attendant
+  - 🍽️ Waiter
+  - 🧬 Biomedicine
+
+- 🧡 **Things that I'm passionate about:**
+  - 🕹️ Gaming
+  - 🚴‍♂️ Sports
+  - 🎨 Drawing
+  - 🎵 Music
+  - 🎥 Theater, movies, series and anime
+  - 💹 Investing
+  - 💉 Medicine
+  - 🏋️‍♂️ Bodybuilding and diet
+  - 🤝 Helping people
+  - 👨‍🏫 Sharing knowledge
+  - 👨‍💻 Programming (of course! :D)
+
+- 🌱 **What I've got my hands on:**
+  - Studying online for an associate's degree in [Analysis and Development of Systems](https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead) at UNINOVE
+  - Refactoring and uploading projects I did at [Trybe](https://www.betrybe.com/)
+  - Studying Next.js through Udemy's [React.Js & Next.Js Course (Intermediate & Advanced)](https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/). It includes the following technologies I still have to learn:
+    - [Next.js](https://nextjs.org/)
+    - [Styled Components](https://styled-components.com/)
+    - [Strapi](https://strapi.io/)
+    - [GraphQL](https://graphql.org/)
+
+- 📖 **What I plan to learn next:**
   - [Sass](https://sass-lang.com/)
   - [Tailwind](https://tailwindcss.com/)
-  - [Next.js](https://nextjs.org/)
-  - [Gatsby](https://www.gatsbyjs.com/)
+  - [Cypress](https://www.cypress.io/)
+  - [Jasmine](https://jasmine.github.io/)
+  - [Enzyme](https://enzymejs.github.io/enzyme/)
   - [React Native](https://reactnative.dev/)
   - [Vue](https://vuejs.org/)
   - [Angular](https://angular.io/)
   - [jQuery](https://jquery.com/)
-  - [Cypress](https://www.cypress.io/)
-  - [Jasmine](https://jasmine.github.io/)
-  - [Enzyme](https://enzymejs.github.io/enzyme/)
+  - [Gatsby](https://www.gatsbyjs.com/)
+  - And sooo much more... 📚
 
-- 📫 **Método de contato / How to reach me:**
+- 📫 **How to reach me:**
   - **rodrigomarchisilva@gmail.com**
 
 ---
 
-<h3 align="center">Conecte-se comigo / Connect with me:</h3>
+<h3 align="center">Connect with me / Conecte-se comigo:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/rodrigo-marchi-silva" target="blank">
     <img
@@ -68,13 +94,13 @@
 <table align="center">
   <tr>
     <th colspan="2">
-      <h3 align="center">Ferramentas / Tools</h3>
+      <h3 align="center">Tools / Ferramentas</h3>
     </th>
   </tr>
 
   <tr>
     <td>
-      <b>Ambiente de trabalho / Work Environment</b>
+      <b>Work Environment / Ambiente de trabalho</b>
     </td>
     <td>
       <a href="https://ubuntu.com/download" target="_blank" rel="noreferrer"><img src="./icons/ubuntu.svg" alt="Ubuntu" title="Ubuntu"></img></a>
@@ -114,7 +140,7 @@
 
   <tr>
     <td>
-      <b>Banco de dados / Database</b>
+      <b>Database / Banco de dados</b>
     </td>
     <td>
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="./icons/mysql.svg" alt="MySQL" title="MySQL"></img></a>
@@ -157,7 +183,7 @@
 
   <tr>
     <td>
-      <b>Testes / Testing</b>
+      <b>Testing / Testes</b>
     </td>
     <td>
       <a href="https://www.jestjs.io/" target="_blank" rel="noreferrer"><img src="./icons/jest.svg" alt="Jest" title="Jest"></img></a>
@@ -171,7 +197,7 @@
 
   <tr>
     <td>
-      <b>Comunicação / Communication</b>
+      <b>Communication / Comunicação</b>
     </td>
     <td>
       <a href="https://www.slack.com/" target="_blank" rel="noreferrer"><img src="./icons/slack.svg" alt="Slack" title="Slack"></img></a>
@@ -181,7 +207,7 @@
 
   <tr>
     <td>
-      <b>Metodologias ágeis / Agile</b>
+      <b>Agile / Metodologias ágeis</b>
     </td>
     <td>
       <a href="https://www.scrum.org/" target="_blank" rel="noreferrer"><img src="./icons/scrum.svg" alt="SCRUM" title="SCRUM"></img></a>
