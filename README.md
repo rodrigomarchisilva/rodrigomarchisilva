@@ -30,7 +30,7 @@
 
 <h3 align="center">About me / Sobre mim:</h3>
 
-Hello! I'm a 30-year-old Brazilian guy who loves programming, learning new things and being creative. I'm currently a full-stack web developer, specialized in JavaScript, but I don't limit myself to that, having interest in other languages and technologies, without fear of learning them! 💪
+Hello! I'm a 30-year-old Brazilian guy in a career transition who loves programming, learning new things and being creative. I'm currently a full-stack web developer, specialized in JavaScript, but I don't limit myself to that, having interest in other languages and technologies, without fear of learning them. I'm looking for a remote developer job (open to discuss relocation), as a volunteer, intern or junior. 💪
 
 - 💼 **My professional background:**
   - 🛠️ Metallurgy
@@ -80,7 +80,7 @@ Hello! I'm a 30-year-old Brazilian guy who loves programming, learning new thing
 <details>
   <summary>pt-BR</summary>
 
-Olá! Sou um cara de 30 anos, brasileiro, que ama programação, aprender coisas novas e ser criativo. Atualmente sou desenvolvedor web full-stack especializado em JavaScript, mas não me limito a isso, tendo interesse em outras linguagens e tecnologias, sem medo de aprendê-las! 💪
+Olá! Sou um jundiaiense de 30 anos em transição de carreira, que ama programação, aprender coisas novas e ser criativo. Atualmente sou desenvolvedor web full-stack especializado em JavaScript, mas não me limito a isso, tendo interesse em outras linguagens e tecnologias, sem medo de aprendê-las. Estou procurando um emprego remoto de desenvolvedor (aberto a discutir vagas híbridas), como voluntário, estagiário ou junior. 💪
 
 - 💼 **Áreas que tenho conhecimento profissional/atuei:**
   - 🛠️ Metalurgia
