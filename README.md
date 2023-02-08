@@ -77,6 +77,58 @@ Hello! I'm a 30-year-old Brazilian guy who loves programming, learning new thing
 - 📫 **How to reach me:**
   - **rodrigomarchisilva@gmail.com**
 
+<details>
+  <summary>pt-BR</summary>
+
+Olá! Sou um cara de 30 anos, brasileiro, que ama programação, aprender coisas novas e ser criativo. Atualmente sou desenvolvedor web full-stack especializado em JavaScript, mas não me limito a isso, tendo interesse em outras linguagens e tecnologias, sem medo de aprendê-las! 💪
+
+- 💼 **Áreas que tenho conhecimento profissional/atuei:**
+  - 🛠️ Metalurgia
+  - 🚚 Logística
+  - ✈️ Comissário de bordo
+  - 🍽️ Garçom
+  - 🧬 Biomedicina
+
+- 🧡 **Coisas que sou apaixonado:**
+  - 🕹️ Games
+  - 🚴‍♂️ Esportes
+  - 🎨 Desenho
+  - 🎵 Música
+  - 🎥 Teatro, filmes, séries e animes
+  - 💹 Investimentos
+  - 💉 Medicina
+  - 🏋️‍♂️ Bodybuilding e dieta
+  - 🤝 Ajudar pessoas
+  - 👨‍🏫 Compartilhar conhecimento
+  - 👨‍💻 Programação (claro! :D)
+
+- 🌱 **O que tenho estudado:**
+  - Cursando tecnólogo em [Análise e Desenvolvimento de Sistemas](https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead) na UNINOVE
+  - Refatorando e subindo projetos que fiz na [Trybe](https://www.betrybe.com/)
+  - Estudando Next.js através do curso [Curso de React.Js e Next.Js (Intermediário e Avançado)](https://www.udemy.com/course/curso-de-reactjs-nextjs-completo-do-basico-ao-avancado/) da Udemy. Ele inclui as seguintes tecnologias que ainda tenho que aprender:
+    - [Next.js](https://nextjs.org/)
+    - [Styled Components](https://styled-components.com/)
+    - [Strapi](https://strapi.io/)
+    - [GraphQL](https://graphql.org/)
+
+- 📖 **O que planejo aprender em seguida:**
+  - [Sass](https://sass-lang.com/)
+  - [Tailwind](https://tailwindcss.com/)
+  - [Cypress](https://www.cypress.io/)
+  - [Jasmine](https://jasmine.github.io/)
+  - [Enzyme](https://enzymejs.github.io/enzyme/)
+  - [React Native](https://reactnative.dev/)
+  - [Vue](https://vuejs.org/)
+  - [Angular](https://angular.io/)
+  - [jQuery](https://jquery.com/)
+  - [Gatsby](https://www.gatsbyjs.com/)
+  - E muuuito mais... 📚
+
+- 📫 **Como me encontrar:**
+  - **rodrigomarchisilva@gmail.com**
+
+</details>
+
 ---
 
 <h3 align="center">Connect with me / Conecte-se comigo:</h3>
