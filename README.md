@@ -35,7 +35,7 @@ Hello! I'm a 30-year-old Brazilian guy in a career transition who loves programm
 - 💼 **My professional background:**
   - 🛠️ Metallurgy
   - 🚚 Logistics
-  - ✈️ Flight attendant
+  - 👩‍✈️ Flight attendant
   - 🍽️ Waiter
   - 🧬 Biomedicine
 
@@ -47,10 +47,11 @@ Hello! I'm a 30-year-old Brazilian guy in a career transition who loves programm
   - 🎥 Theater, movies, series and anime
   - 💹 Investing
   - 💉 Medicine
+  - ✈️ Aviation / Traveling
   - 🏋️‍♂️ Bodybuilding and diet
   - 🤝 Helping people
   - 👨‍🏫 Sharing knowledge
-  - 👨‍💻 Programming (of course! :D)
+  - 👨‍💻 Programming (of course! 😄)
 
 - 🌱 **What I've got my hands on:**
   - Studying online for an associate's degree in [Analysis and Development of Systems](https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead) at UNINOVE
@@ -85,7 +86,7 @@ Olá! Sou um jundiaiense de 30 anos em transição de carreira, que ama programa
 - 💼 **Áreas que tenho conhecimento profissional/atuei:**
   - 🛠️ Metalurgia
   - 🚚 Logística
-  - ✈️ Comissário de bordo
+  - 👩‍✈️ Comissário de bordo
   - 🍽️ Garçom
   - 🧬 Biomedicina
 
@@ -97,10 +98,11 @@ Olá! Sou um jundiaiense de 30 anos em transição de carreira, que ama programa
   - 🎥 Teatro, filmes, séries e animes
   - 💹 Investimentos
   - 💉 Medicina
+  - ✈️ Aviação / Viajar
   - 🏋️‍♂️ Bodybuilding e dieta
   - 🤝 Ajudar pessoas
   - 👨‍🏫 Compartilhar conhecimento
-  - 👨‍💻 Programação (claro! :D)
+  - 👨‍💻 Programação (claro! 😄)
 
 - 🌱 **O que tenho estudado:**
   - Cursando tecnólogo em [Análise e Desenvolvimento de Sistemas](https://www.uninove.br/cursos/ead/ead/tecnologia-analise-desenvolvimento-de-sistemas-ead) na UNINOVE
